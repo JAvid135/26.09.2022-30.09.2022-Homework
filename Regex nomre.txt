@@ -1,0 +1,7 @@
+\+\d{3,6}\-\d{3,4}\-\d{2,3}\-\d{2,3}
++99455-950-98-97
+\+\d{12} 
+(bu sırf Azərbaycan nömrələri və yaxud digər ölkələr amma eyni sayda rəqəmlərlə;Xətsiz)
++994559509897
+\+\d{3,6}\s\d{3,4}\s\d{2,3}\s\d{2,3}
++99455 950 98 97
